@@ -15,3 +15,6 @@
 
 echo命令
 6.bash-echo:
+
+printf命令
+7.bash-printf:
