@@ -18,3 +18,6 @@ echo命令
 
 printf命令
 7.bash-printf:
+
+test命令
+8.bash-test:
