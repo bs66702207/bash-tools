@@ -24,3 +24,6 @@ test命令
 
 流程控制
 9.bash-flow-control:
+
+函数
+10.bash-func:
