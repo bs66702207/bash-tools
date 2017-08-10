@@ -9,3 +9,6 @@
 
 传递参数
 4.bash-argc:
+
+运算符
+5.bash-operator:
