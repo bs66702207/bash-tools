@@ -21,3 +21,6 @@ printf命令
 
 test命令
 8.bash-test:
+
+流程控制
+9.bash-flow-control:
