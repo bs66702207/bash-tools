@@ -12,3 +12,6 @@
 
 运算符
 5.bash-operator:
+
+echo命令
+6.bash-echo:
