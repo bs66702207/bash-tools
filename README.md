@@ -6,3 +6,5 @@
 1.bash-variable:
 2.bash-string:
 3.bash-array:
+传递参数
+4.bash-argc:
