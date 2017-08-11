@@ -27,3 +27,6 @@ test命令
 
 函数
 10.bash-func:
+
+重定向
+11.redirect:
