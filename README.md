@@ -30,3 +30,6 @@ test命令
 
 重定向
 11.redirect:
+
+文件包含
+12.include:
